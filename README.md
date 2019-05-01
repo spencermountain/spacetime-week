@@ -5,6 +5,9 @@
   <div>
     calculate the start of a week
   </div>
+  <sup>
+  By <a href="https://github.com/MartinSpd">Martin Spodniak</a> and <a href="https://github.com/spencermountain">Spencer Kelly</a>
+  </sup>
   <a href="https://npmjs.org/package/spacetime-week">
     <img src="https://img.shields.io/npm/v/spacetime-week.svg?style=flat-square" />
   </a>
@@ -12,9 +15,6 @@
     <img src="https://badge-size.herokuapp.com/spencermountain/spacetime-week/master/builds/spacetime-week.min.js" />
   </a>
   <hr/>
-  <div>
-  By <a href="https://github.com/MartinSpd">Martin Spodniak</a> and <a href="https://github.com/spencermountain">Spencer Kelly</a>
-  </div>
 </div>
 
 The start of a week varies officially in different countries.
@@ -39,7 +39,7 @@ spacetimeWeek('russia')
 // 1
 ```
 
-### See also:
+### Some Info:
 
 - [First Day of the Week in Different Countries](http://chartsbin.com/view/41671)
 - [CLDR - Unicode Common Locale Data Repository](http://cldr.unicode.org/)
