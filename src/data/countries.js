@@ -1,3 +1,10 @@
+let loc = {
+  l01: 'gmt',
+  l02: 'universal',
+  l03: 'utc',
+  l04: 'zulu'
+}
+
 let c = {
   c001: 'afghanistan', 
   c002: 'aland islands', 
@@ -244,13 +251,6 @@ let c = {
   c243: 'zambia', 
   c244: 'zimbabwe', 
   c245: loc.l04
-}
-
-let loc = {
-  l01: 'gmt',
-  l02: 'universal',
-  l03: 'utc',
-  l04: 'zulu'
 }
 
 let firstDay = {

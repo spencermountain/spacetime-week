@@ -1,11 +1,11 @@
 const countriesData = require('../data/countries').firstDay();
+const countries = require('../data/countries').countries();
 const iana = require('../../zonefile/iana');
-const spacetime = require('../index')
+// const spacetime = require('../index') // temporarily
 
 function getCountryKey(country) {
-  for (let key in c) {
-    // if (country === c[key]) {
-    if (c[key].indexOf(country) !== -1) {
+  for (let key in countries) {
+    if (countries[key].indexOf(country) !== -1) {
       return key
     }
   }
@@ -36,9 +36,10 @@ function getUnknownKey(tz) {
 function whatCountryKey(country = '') {
     
     // checks function argument and sets default value
-  let tz = iana[spacetime.now().tz]
+  let tz
     if (!country || typeof country !== 'string') {
       country = null
+      tz = iana[spacetime.now().tz]
     }
     if (!country) {
       return getUnknownKey(tz);
@@ -49,10 +50,10 @@ function whatCountryKey(country = '') {
 
 function weekStart(country = '') {
   let key = whatCountryKey(country)
-    if (!key) { return weekStart() }console.log(key)
-    for (let i in c) {
+    if (!key) { return weekStart() }
+    for (let i in countries) {
       if (i === key) {
-        country = c[i]
+        country = countries[i]
         break
       }
     }
