@@ -2142,7 +2142,7 @@ module.exports = {
     offset: 2,
     hem: 'n',
     dst: '03/31:02->10/27:03',
-    cntry: 'austria'
+    cntry: 'c016'
   },
   'europe/vilnius': {
     offset: 3,
