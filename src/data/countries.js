@@ -166,7 +166,10 @@ let firstDay = {
   },
   saturday: { 
     c019: 'bangladesh', 
-    c098: 'iran'
+    c059: 'djibouti', 
+    c098: 'iran',
+    c164: 'palestine', 
+    c198: 'somalia'
   }, 
   sunday: {
     c001: 'afghanistan', 
@@ -186,7 +189,6 @@ let firstDay = {
     c045: 'china', 
     c048: 'colombia', 
     c051: 'costa rica', 
-    c059: 'djibouti', 
     c060: 'dominica', 
     c061: 'ecuador', 
     c062: 'egypt', 
@@ -220,7 +222,6 @@ let firstDay = {
     c159: 'northern mariana islands', 
     c161: 'oman', 
     c163: 'palau', 
-    c164: 'palestine', 
     c165: 'panama', 
     c167: 'paraguay', 
     c168: 'peru', 
@@ -231,7 +232,6 @@ let firstDay = {
     c185: 'samoa', 
     c188: 'saudi arabia', 
     c193: 'singapore', 
-    c198: 'somalia', 
     c199: 'south africa', 
     c201: 'south korea', 
     c202: 'south sudan', 
