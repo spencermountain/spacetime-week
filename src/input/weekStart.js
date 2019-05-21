@@ -22,11 +22,14 @@ function getCountry(country) {
 }
 
 function getCurrent(tz) {
+  if (!tz) { 
+    return { message: `there are problems determine time zone` } 
+  }
   // searches if current tz matches with iana
   // gets country key
   for (let key in iana) {
     if (key === tz) {
-      if (!iana[key].cntry && !iana[key].loc) {
+      if (!iana[key].ctry && !iana[key].loc) {
         let country = getCountry(
             key.substr(0, key.indexOf('/')) )
           if (country) { return country }
@@ -38,8 +41,8 @@ function getCurrent(tz) {
       else if (iana[key].loc) {
         return getCountry(country)
       }
-      else if (iana[key].cntry) {
-        return getCountry(iana[key].cntry)
+      else if (iana[key].ctry) {
+        return getCountry(iana[key].ctry)
       }
     }
   }

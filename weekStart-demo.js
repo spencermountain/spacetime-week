@@ -2,7 +2,7 @@ const weekStart = require('./src/input/weekStart');
   /** 
 		In this version country will be found out by searching 
 		in iana.js. I added to iana.js one optional property
-		cntry containing key pointing to country.
+		ctry containing key pointing to country.
 
 		I saved all country names in one JSON object c.
 		In other JSON are keys to countries stored in an array, 

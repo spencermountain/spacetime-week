@@ -2,99 +2,99 @@ module.exports = {
   'africa/abidjan': {
     offset: 0,
     hem: 'n',
-    cntry: 'c103'
+    ctry: 'c103'
   },
   'africa/accra': {
     offset: 0,
     hem: 'n',
-    cntry: 'c079'
+    ctry: 'c079'
   },
   'africa/addis_ababa': {
     offset: 3,
     hem: 'n',
-    cntry: 'c067'
+    ctry: 'c067'
   },
   'africa/algiers': {
     offset: 1,
     hem: 'n',
-    cntry: 'c004'
+    ctry: 'c004'
   },
   'africa/asmara': {
     offset: 3,
     hem: 'n',
-    cntry: 'c065'
+    ctry: 'c065'
   },
   'africa/asmera': {
     offset: 3,
     hem: 'n',
-    cntry: 'c065'
+    ctry: 'c065'
   },
   'africa/bamako': {
     offset: 0,
     hem: 'n',
-    cntry: 'c127'
+    ctry: 'c127'
   },
   'africa/bangui': {
     offset: 1,
     hem: 'n',
-    cntry: 'c042'
+    ctry: 'c042'
   },
   'africa/banjul': {
     offset: 0,
     hem: 'n',
-    cntry: 'c216'
+    ctry: 'c216'
   },
   'africa/bissau': {
     offset: 0,
     hem: 'n',
-    cntry: 'c089'
+    ctry: 'c089'
   },
   'africa/blantyre': {
     offset: 2,
     hem: 'n',
-    cntry: 'c124'
+    ctry: 'c124'
   },
   'africa/brazzaville': {
     offset: 1,
     hem: 'n',
-    cntry: 'c175'
+    ctry: 'c175'
   },
   'africa/bujumbura': {
     offset: 2,
     hem: 'n',
-    cntry: 'c036'
+    ctry: 'c036'
   },
   'africa/cairo': {
     offset: 2,
     hem: 'n',
-    cntry: 'c062'
+    ctry: 'c062'
   },
   'africa/casablanca': {
     offset: 1,
     hem: 'n',
     dst: '05/05:03->06/09:02',
-    cntry: 'c142'
+    ctry: 'c142'
   },
   'africa/ceuta': {
     offset: 2,
     hem: 'n',
     dst: '03/31:02->10/27:03',
-    cntry: 'c203'
+    ctry: 'c203'
   },
   'africa/conakry': {
     offset: 0,
     hem: 'n',
-    cntry: 'c088'
+    ctry: 'c088'
   },
   'africa/dakar': {
     offset: 0,
     hem: 'n',
-    cntry: 'c189'
+    ctry: 'c189'
   },
   'africa/dar_es_salaam': {
     offset: 3,
     hem: 'n',
-    cntry: 'c213'
+    ctry: 'c213'
   },
   'africa/djibouti': {
     offset: 3,
@@ -103,186 +103,186 @@ module.exports = {
   'africa/douala': {
     offset: 1,
     hem: 'n',
-    cntry: 'c038'
+    ctry: 'c038'
   },
   'africa/el_aaiun': {
     offset: 1,
     hem: 'n',
     dst: '05/05:03->06/09:02',
-    cntry: 'c142'
+    ctry: 'c142'
   },
   'africa/freetown': {
     offset: 0,
     hem: 'n',
-    cntry: 'c192'
+    ctry: 'c192'
   },
   'africa/gaborone': {
     offset: 2,
     hem: 's',
-    cntry: 'c030'
+    ctry: 'c030'
   },
   'africa/harare': {
     offset: 2,
     hem: 's',
-    cntry: 'c244'
+    ctry: 'c244'
   },
   'africa/johannesburg': {
     offset: 2,
     hem: 's',
-    cntry: 'c199'
+    ctry: 'c199'
   },
   'africa/juba': {
     offset: 3,
     hem: 'n',
-    cntry: 'c202'
+    ctry: 'c202'
   },
   'africa/kampala': {
     offset: 3,
     hem: 'n',
-    cntry: 'c226'
+    ctry: 'c226'
   },
   'africa/khartoum': {
     offset: 2,
     hem: 'n',
-    cntry: 'c205'
+    ctry: 'c205'
   },
   'africa/kigali': {
     offset: 2,
     hem: 'n',
-    cntry: 'c179'
+    ctry: 'c179'
   },
   'africa/kinshasa': {
     offset: 1,
     hem: 's',
-    cntry: 'c057'
+    ctry: 'c057'
   },
   'africa/lagos': {
     offset: 1,
     hem: 'n',
-    cntry: 'c153'
+    ctry: 'c153'
   },
   'africa/libreville': {
     offset: 1,
     hem: 'n',
-    cntry: 'c076'
+    ctry: 'c076'
   },
   'africa/lome': {
     offset: 0,
     hem: 'n',
-    cntry: 'c217'
+    ctry: 'c217'
   },
   'africa/luanda': {
     offset: 1,
     hem: 's',
-    cntry: 'c007'
+    ctry: 'c007'
   },
   'africa/lubumbashi': {
     offset: 2,
     hem: 's',
-    cntry: 'c057'
+    ctry: 'c057'
   },
   'africa/lusaka': {
     offset: 2,
     hem: 's',
-    cntry: 'c243'
+    ctry: 'c243'
   },
   'africa/malabo': {
     offset: 1,
     hem: 'n',
-    cntry: 'c064'
+    ctry: 'c064'
   },
   'africa/maputo': {
     offset: 2,
     hem: 's',
-    cntry: 'c143'
+    ctry: 'c143'
   },
   'africa/maseru': {
     offset: 2,
     hem: 's',
-    cntry: 'c115'
+    ctry: 'c115'
   },
   'africa/mbabane': {
     offset: 2,
     hem: 's',
-    cntry: 'c207'
+    ctry: 'c207'
   },
   'africa/mogadishu': {
     offset: 3,
     hem: 'n',
-    cntry: 'c198'
+    ctry: 'c198'
   },
   'africa/monrovia': {
     offset: 0,
     hem: 'n',
-    cntry: 'c116'
+    ctry: 'c116'
   },
   'africa/nairobi': {
     offset: 3,
     hem: 'n',
-    cntry: 'c108'
+    ctry: 'c108'
   },
   'africa/ndjamena': {
     offset: 1,
     hem: 'n',
-    cntry: 'c043'
+    ctry: 'c043'
   },
   'africa/niamey': {
     offset: 1,
     hem: 'n',
-    cntry: 'c152'
+    ctry: 'c152'
   },
   'africa/nouakchott': {
     offset: 0,
     hem: 'n',
-    cntry: 'c131'
+    ctry: 'c131'
   },
   'africa/ouagadougou': {
     offset: 0,
     hem: 'n',
-    cntry: 'c035'
+    ctry: 'c035'
   },
   'africa/porto-novo': {
     offset: 1,
     hem: 'n',
-    cntry: 'c024'
+    ctry: 'c024'
   },
   'africa/sao_tome': {
     offset: 0,
     hem: 'n',
-    cntry: 'c187'
+    ctry: 'c187'
   },
   'africa/timbuktu': {
     offset: 0,
     hem: 'n',
-    cntry: 'c127'
+    ctry: 'c127'
   },
   'africa/tripoli': {
     offset: 2,
     hem: 'n',
-    cntry: 'c117'
+    ctry: 'c117'
   },
   'africa/tunis': {
     offset: 1,
     hem: 'n',
-    cntry: 'c221'
+    ctry: 'c221'
   },
   'africa/windhoek': {
     offset: 1,
     hem: 's',
     dst: '04/02:01->09/03:03',
-    cntry: 'c145'
+    ctry: 'c145'
   },
   'america/adak': {
     offset: -9,
     hem: 'n',
     dst: '03/10:02->11/03:02',
-    cntry: 'c230'
+    ctry: 'c230'
   },
   'america/anchorage': {
     offset: -8,
     hem: 'n',
     dst: '03/10:02->11/03:02',
-    cntry: 'c230'
+    ctry: 'c230'
   },
   'america/anguilla': {
     offset: -4,
@@ -291,12 +291,12 @@ module.exports = {
   'america/antigua': {
     offset: -4,
     hem: 'n',
-    cntry: 'c010'
+    ctry: 'c010'
   },
   'america/araguaina': {
     offset: -3,
     hem: 'n',
-    cntry: 'c031'
+    ctry: 'c031'
   },
   'america/argentina': {
     offset: -3,
@@ -310,29 +310,29 @@ module.exports = {
     offset: -4,
     hem: 's',
     dst: '03/23:24->10/06:00',
-    cntry: 'c167'
+    ctry: 'c167'
   },
   'america/atikokan': {
     offset: -5,
     hem: 'n',
-    cntry: 'c039'
+    ctry: 'c039'
   },
   'america/atka': {
     offset: -9,
     hem: 'n',
     dst: '03/10:02->11/03:02',
-    cntry: 'c230'
+    ctry: 'c230'
   },
   'america/bahia': {
     offset: -3,
     hem: 'n',
-    cntry: 'c031'
+    ctry: 'c031'
   },
   'america/bahia_banderas': {
     offset: -5,
     hem: 'n',
     dst: '04/07:02->10/27:02',
-    cntry: 'c134'
+    ctry: 'c134'
   },
   'america/barbados': {
     offset: -4,
@@ -341,7 +341,7 @@ module.exports = {
   'america/belem': {
     offset: -3,
     hem: 'n',
-    cntry: 'c031'
+    ctry: 'c031'
   },
   'america/belize': {
     offset: -6,
@@ -350,87 +350,87 @@ module.exports = {
   'america/blanc-sablon': {
     offset: -4,
     hem: 'n',
-    cntry: 'c039'
+    ctry: 'c039'
   },
   'america/boa_vista': {
     offset: -4,
     hem: 'n',
-    cntry: 'c031'
+    ctry: 'c031'
   },
   'america/bogota': {
     offset: -5,
     hem: 'n',
-    cntry: 'c048'
+    ctry: 'c048'
   },
   'america/boise': {
     offset: -6,
     hem: 'n',
     dst: '03/10:02->11/03:02',
-    cntry: 'c230'
+    ctry: 'c230'
   },
   'america/buenos_aires': {
     offset: -3,
     hem: 's',
-    cntry: 'c012'
+    ctry: 'c012'
   },
   'america/cambridge_bay': {
     offset: -6,
     hem: 'n',
     dst: '03/10:02->11/03:02',
-    cntry: 'c039'
+    ctry: 'c039'
   },
   'america/campo_grande': {
     offset: -4,
     hem: 's',
     dst: '02/16:24->11/03:00',
-    cntry: 'c031'
+    ctry: 'c031'
   },
   'america/cancun': {
     offset: -5,
     hem: 'n',
-    cntry: 'c134'
+    ctry: 'c134'
   },
   'america/caracas': {
     offset: -4,
     hem: 'n',
-    cntry: 'c237'
+    ctry: 'c237'
   },
   'america/catamarca': {
     offset: -3,
     hem: 'n',
-    cntry: 'c012'
+    ctry: 'c012'
   },
   'america/cayenne': {
     offset: -3,
     hem: 'n',
-    cntry: 'c073'
+    ctry: 'c073'
   },
   'america/cayman': {
     offset: -5,
     hem: 'n',
-    cntry: 'c041'
+    ctry: 'c041'
   },
   'america/chicago': {
     offset: -5,
     hem: 'n',
     dst: '03/10:02->11/03:02',
-    cntry: 'c230'
+    ctry: 'c230'
   },
   'america/chihuahua': {
     offset: -6,
     hem: 'n',
     dst: '04/07:02->10/27:02',
-    cntry: 'c134'
+    ctry: 'c134'
   },
   'america/coral_harbour': {
     offset: -5,
     hem: 'n',
-    cntry: 'c215'
+    ctry: 'c215'
   },
   'america/cordoba': {
     offset: -3,
     hem: 's',
-    cntry: 'c012'
+    ctry: 'c012'
   },
   'america/costa_rica': {
     offset: -6,
@@ -439,13 +439,13 @@ module.exports = {
   'america/creston': {
     offset: -7,
     hem: 'n',
-    cntry: 'c230'
+    ctry: 'c230'
   },
   'america/cuiaba': {
     offset: -4,
     hem: 's',
     dst: '02/16:24->11/03:00',
-    cntry: 'c031'
+    ctry: 'c031'
   },
   'america/curacao': {
     offset: -4,
@@ -454,30 +454,30 @@ module.exports = {
   'america/danmarkshavn': {
     offset: 0,
     hem: 'n',
-    cntry: 'c083'
+    ctry: 'c083'
   },
   'america/dawson': {
     offset: -7,
     hem: 'n',
     dst: '03/10:02->11/03:02',
-    cntry: 'c230'
+    ctry: 'c230'
   },
   'america/dawson_creek': {
     offset: -7,
     hem: 'n',
-    cntry: 'c039'
+    ctry: 'c039'
   },
   'america/denver': {
     offset: -6,
     hem: 'n',
     dst: '03/10:02->11/03:02',
-    cntry: 'c230'
+    ctry: 'c230'
   },
   'america/detroit': {
     offset: -4,
     hem: 'n',
     dst: '03/10:02->11/03:02',
-    cntry: 'c230'
+    ctry: 'c230'
   },
   'america/dominica': {
     offset: -4,
@@ -487,12 +487,12 @@ module.exports = {
     offset: -6,
     hem: 'n',
     dst: '03/10:02->11/03:02',
-    cntry: 'c039'
+    ctry: 'c039'
   },
   'america/eirunepe': {
     offset: -5,
     hem: 'n',
-    cntry: 'c031'
+    ctry: 'c031'
   },
   'america/el_salvador': {
     offset: -6,
@@ -502,42 +502,42 @@ module.exports = {
     offset: -7,
     hem: 'n',
     dst: '03/10:02->11/03:02',
-    cntry: 'c134'
+    ctry: 'c134'
   },
   'america/fort_wayne': {
     offset: -4,
     hem: 'n',
     dst: '03/10:02->11/03:02',
-    cntry: 'c230'
+    ctry: 'c230'
   },
   'america/fortaleza': {
     offset: -3,
     hem: 's',
-    cntry: 'c031'
+    ctry: 'c031'
   },
   'america/glace_bay': {
     offset: -3,
     hem: 'n',
     dst: '03/10:02->11/03:02',
-    cntry: 'c039'
+    ctry: 'c039'
   },
   'america/godthab': {
     offset: -2,
     hem: 'n',
     dst: '03/30:22->10/26:23',
-    cntry: 'c083'
+    ctry: 'c083'
   },
   'america/goose_bay': {
     offset: -3,
     hem: 'n',
     dst: '03/10:02->11/03:02',
-    cntry: 'c039'
+    ctry: 'c039'
   },
   'america/grand_turk': {
     offset: -4,
     hem: 'n',
     dst: '03/10:02->11/03:02',
-    cntry: 'c224'
+    ctry: 'c224'
   },
   'america/grenada': {
     offset: -4,
@@ -554,7 +554,7 @@ module.exports = {
   'america/guayaquil': {
     offset: -5,
     hem: 'n',
-    cntry: 'c061'
+    ctry: 'c061'
   },
   'america/guyana': {
     offset: -4,
@@ -564,42 +564,42 @@ module.exports = {
     offset: -3,
     hem: 'n',
     dst: '03/10:02->11/03:02',
-    cntry: 'c039'
+    ctry: 'c039'
   },
   'america/havana': {
     offset: -4,
     hem: 'n',
     dst: '03/10:00->11/03:01',
-    cntry: 'c053'
+    ctry: 'c053'
   },
   'america/hermosillo': {
     offset: -7,
     hem: 'n',
-    cntry: 'c134'
+    ctry: 'c134'
   },
   'america/indiana': {
     offset: -4,
     hem: 'n',
     dst: '03/12:03->11/05:01',
-    cntry: 'c230'
+    ctry: 'c230'
   },
   'america/indianapolis': {
     offset: -4,
     hem: 'n',
     dst: '03/10:02->11/03:02',
-    cntry: 'c230'
+    ctry: 'c230'
   },
   'america/inuvik': {
     offset: -6,
     hem: 'n',
     dst: '03/10:02->11/03:02',
-    cntry: 'c039'
+    ctry: 'c039'
   },
   'america/iqaluit': {
     offset: -4,
     hem: 'n',
     dst: '03/10:02->11/03:02',
-    cntry: 'c039'
+    ctry: 'c039'
   },
   'america/jamaica': {
     offset: -5,
@@ -608,77 +608,77 @@ module.exports = {
   'america/jujuy': {
     offset: -3,
     hem: 'n',
-    cntry: 'c012'
+    ctry: 'c012'
   },
   'america/juneau': {
     offset: -8,
     hem: 'n',
     dst: '03/10:02->11/03:02',
-    cntry: 'c230'
+    ctry: 'c230'
   },
   'america/kentucky': {
     offset: -4,
     hem: 'n',
     dst: '03/12:03->11/05:01',
-    cntry: 'c230'
+    ctry: 'c230'
   },
   'america/knox_in': {
     offset: -5,
     hem: 'n',
     dst: '03/10:02->11/03:02',
-    cntry: 'c230'
+    ctry: 'c230'
   },
   'america/kralendijk': {
     offset: -4,
     hem: 'n',
-    cntry: 'c028'
+    ctry: 'c028'
   },
   'america/la_paz': {
     offset: -4,
     hem: 's',
-    cntry: 'c027'
+    ctry: 'c027'
   },
   'america/lima': {
     offset: -5,
     hem: 's',
-    cntry: 'c168'
+    ctry: 'c168'
   },
   'america/los_angeles': {
     offset: -7,
     hem: 'n',
     dst: '03/10:02->11/03:02',
-    cntry: 'c230'
+    ctry: 'c230'
   },
   'america/louisville': {
     offset: -4,
     hem: 'n',
     dst: '03/10:02->11/03:02',
-    cntry: 'c230'
+    ctry: 'c230'
   },
   'america/lower_princes': {
     offset: -4,
     hem: 'n',
-    cntry: 'c194'
+    ctry: 'c194'
   },
   'america/maceio': {
     offset: -3,
     hem: 'n',
-    cntry: 'c031'
+    ctry: 'c031'
   },
   'america/managua': {
     offset: -6,
     hem: 'n',
-    cntry: 'c151'
+    ctry: 'c151'
   },
   'america/manaus': {
     offset: -4,
     hem: 's',
-    cntry: 'c031'
+    ctry: 'c031'
   },
   'america/marigot': {
     offset: -4,
     hem: 'n',
-    cntry: 'c194'
+    ctry: 'c194'
   },
   'america/martinique': {
     offset: -4,
@@ -688,71 +688,71 @@ module.exports = {
     offset: -5,
     hem: 'n',
     dst: '03/10:02->11/03:02',
-    cntry: 'c134'
+    ctry: 'c134'
   },
   'america/mazatlan': {
     offset: -6,
     hem: 'n',
     dst: '04/07:02->10/27:02',
-    cntry: 'c134'
+    ctry: 'c134'
   },
   'america/mendoza': {
     offset: -3,
     hem: 'n',
-    cntry: 'c012'
+    ctry: 'c012'
   },
   'america/menominee': {
     offset: -5,
     hem: 'n',
     dst: '03/10:02->11/03:02',
-    cntry: 'c230'
+    ctry: 'c230'
   },
   'america/merida': {
     offset: -5,
     hem: 'n',
     dst: '04/07:02->10/27:02',
-    cntry: 'c134'
+    ctry: 'c134'
   },
   'america/metlakatla': {
     offset: -8,
     hem: 'n',
     dst: '03/10:02->11/03:02',
-    cntry: 'c230'
+    ctry: 'c230'
   },
   'america/mexico_city': {
     offset: -5,
     hem: 'n',
     dst: '04/07:02->10/27:02',
-    cntry: 'c134'
+    ctry: 'c134'
   },
   'america/miquelon': {
     offset: -2,
     hem: 'n',
     dst: '03/10:02->11/03:02',
-    cntry: 'c183'
+    ctry: 'c183'
   },
   'america/moncton': {
     offset: -3,
     hem: 'n',
     dst: '03/10:02->11/03:02',
-    cntry: 'c039'
+    ctry: 'c039'
   },
   'america/monterrey': {
     offset: -5,
     hem: 'n',
     dst: '04/07:02->10/27:02',
-    cntry: 'c134'
+    ctry: 'c134'
   },
   'america/montevideo': {
     offset: -3,
     hem: 's',
-    cntry: 'c232'
+    ctry: 'c232'
   },
   'america/montreal': {
     offset: -4,
     hem: 'n',
     dst: '03/10:02->11/03:02',
-    cntry: 'c039'
+    ctry: 'c039'
   },
   'america/montserrat': {
     offset: -4,
@@ -762,42 +762,42 @@ module.exports = {
     offset: -4,
     hem: 'n',
     dst: '03/10:02->11/03:02',
-    cntry: 'c215'
+    ctry: 'c215'
   },
   'america/new_york': {
     offset: -4,
     hem: 'n',
     dst: '03/10:02->11/03:02',
-    cntry: 'c230'
+    ctry: 'c230'
   },
   'america/nipigon': {
     offset: -4,
     hem: 'n',
     dst: '03/10:02->11/03:02',
-    cntry: 'c039'
+    ctry: 'c039'
   },
   'america/nome': {
     offset: -8,
     hem: 'n',
     dst: '03/10:02->11/03:02',
-    cntry: 'c134'
+    ctry: 'c134'
   },
   'america/noronha': {
     offset: -2,
     hem: 'n',
-    cntry: 'c031'
+    ctry: 'c031'
   },
   'america/north_dakota': {
     offset: -5,
     hem: 'n',
     dst: '03/12:03->11/05:01',
-    cntry: 'c230'
+    ctry: 'c230'
   },
   'america/ojinaga': {
     offset: -6,
     hem: 'n',
     dst: '03/10:02->11/03:02',
-    cntry: 'c134'
+    ctry: 'c134'
   },
   'america/panama': {
     offset: -5,
@@ -807,38 +807,38 @@ module.exports = {
     offset: -4,
     hem: 'n',
     dst: '03/10:02->11/03:02',
-    cntry: 'c039'
+    ctry: 'c039'
   },
   'america/paramaribo': {
     offset: -3,
     hem: 'n',
-    cntry: 'c206'
+    ctry: 'c206'
   },
   'america/phoenix': {
     offset: -7,
     hem: 'n',
-    cntry: 'c230'
+    ctry: 'c230'
   },
   'america/port-au-prince': {
     offset: -4,
     hem: 'n',
     dst: '03/10:02->11/03:02',
-    cntry: 'c091'
+    ctry: 'c091'
   },
   'america/port_of_spain': {
     offset: -4,
     hem: 'n',
-    cntry: 'c220'
+    ctry: 'c220'
   },
   'america/porto_acre': {
     offset: -5,
     hem: 'n',
-    cntry: 'c031'
+    ctry: 'c031'
   },
   'america/porto_velho': {
     offset: -4,
     hem: 'n',
-    cntry: 'c031'
+    ctry: 'c031'
   },
   'america/puerto_rico': {
     offset: -4,
@@ -847,196 +847,196 @@ module.exports = {
   'america/punta_arenas': {
     offset: -3,
     hem: 's',
-    cntry: 'c051'
+    ctry: 'c051'
   },
   'america/rainy_river': {
     offset: -5,
     hem: 'n',
     dst: '03/10:02->11/03:02',
-    cntry: 'c039'
+    ctry: 'c039'
   },
   'america/rankin_inlet': {
     offset: -5,
     hem: 'n',
     dst: '03/10:02->11/03:02',
-    cntry: 'c039'
+    ctry: 'c039'
   },
   'america/recife': {
     offset: -3,
     hem: 'n',
-    cntry: 'c031'
+    ctry: 'c031'
   },
   'america/regina': {
     offset: -6,
     hem: 'n',
-    cntry: 'c039'
+    ctry: 'c039'
   },
   'america/resolute': {
     offset: -5,
     hem: 'n',
     dst: '03/10:02->11/03:02',
-    cntry: 'c230'
+    ctry: 'c230'
   },
   'america/rio_branco': {
     offset: -5,
     hem: 's',
-    cntry: 'c031'
+    ctry: 'c031'
   },
   'america/rosario': {
     offset: -3,
     hem: 'n',
-    cntry: 'c012'
+    ctry: 'c012'
   },
   'america/santa_isabel': {
     offset: -7,
     hem: 'n',
     dst: '03/10:02->11/03:02',
-    cntry: 'c134'
+    ctry: 'c134'
   },
   'america/santarem': {
     offset: -3,
     hem: 'n',
-    cntry: 'c031'
+    ctry: 'c031'
   },
   'america/santiago': {
     offset: -4,
     hem: 's',
     dst: '04/06:24->09/08:00',
-    cntry: 'c134'
+    ctry: 'c134'
   },
   'america/santo_domingo': {
     offset: -4,
     hem: 'n',
-    cntry: 'c134'
+    ctry: 'c134'
   },
   'america/sao_paulo': {
     offset: -3,
     hem: 's',
     dst: '02/16:24->11/03:00',
-    cntry: 'c031'
+    ctry: 'c031'
   },
   'america/scoresbysund': {
     offset: 0,
     hem: 'n',
     dst: '03/31:00->10/27:01',
-    cntry: 'c083'
+    ctry: 'c083'
   },
   'america/shiprock': {
     offset: -6,
     hem: 'n',
     dst: '03/10:02->11/03:02',
-    cntry: 'c230'
+    ctry: 'c230'
   },
   'america/sitka': {
     offset: -8,
     hem: 'n',
     dst: '03/10:02->11/03:02',
-    cntry: 'c230'
+    ctry: 'c230'
   },
   'america/st_barthelemy': {
     offset: -4,
     hem: 'n',
-    cntry: 'c039'
+    ctry: 'c039'
   },
   'america/st_johns': {
     offset: -2.5,
     hem: 'n',
     dst: '03/10:02->11/03:02',
-    cntry: 'c039'
+    ctry: 'c039'
   },
   'america/st_kitts': {
     offset: -4,
     hem: 'n',
-    cntry: 'c181'
+    ctry: 'c181'
   },
   'america/st_lucia': {
     offset: -4,
     hem: 'n',
-    cntry: 'c182'
+    ctry: 'c182'
   },
   'america/st_thomas': {
     offset: -4,
     hem: 'n',
-    cntry: 'c239'
+    ctry: 'c239'
   },
   'america/st_vincent': {
     offset: -4,
     hem: 'n',
-    cntry: 'c184'
+    ctry: 'c184'
   },
   'america/swift_current': {
     offset: -6,
     hem: 'n',
-    cntry: 'c039'
+    ctry: 'c039'
   },
   'america/tegucigalpa': {
     offset: -6,
     hem: 'n',
-    cntry: 'c092'
+    ctry: 'c092'
   },
   'america/thule': {
     offset: -3,
     hem: 'n',
     dst: '03/10:02->11/03:02',
-    cntry: 'c083'
+    ctry: 'c083'
   },
   'america/thunder_bay': {
     offset: -4,
     hem: 'n',
     dst: '03/10:02->11/03:02',
-    cntry: 'c039'
+    ctry: 'c039'
   },
   'america/tijuana': {
     offset: -7,
     hem: 'n',
     dst: '03/10:02->11/03:02',
-    cntry: 'c134'
+    ctry: 'c134'
   },
   'america/toronto': {
     offset: -4,
     hem: 'n',
     dst: '03/10:02->11/03:02',
-    cntry: 'c039'
+    ctry: 'c039'
   },
   'america/tortola': {
     offset: -4,
     hem: 'n',
-    cntry: 'c239'
+    ctry: 'c239'
   },
   'america/vancouver': {
     offset: -7,
     hem: 'n',
     dst: '03/10:02->11/03:02',
-    cntry: 'c039'
+    ctry: 'c039'
   },
   'america/virgin': {
     offset: -4,
     hem: 'n',
-    cntry: 'c239'
+    ctry: 'c239'
   },
   'america/whitehorse': {
     offset: -7,
     hem: 'n',
     dst: '03/10:02->11/03:02',
-    cntry: 'c039'
+    ctry: 'c039'
   },
   'america/winnipeg': {
     offset: -5,
     hem: 'n',
     dst: '03/10:02->11/03:02',
-    cntry: 'c039'
+    ctry: 'c039'
   },
   'america/yakutat': {
     offset: -8,
     hem: 'n',
     dst: '03/10:02->11/03:02',
-    cntry: 'c230'
+    ctry: 'c230'
   },
   'america/yellowknife': {
     offset: -6,
     hem: 'n',
     dst: '03/10:02->11/03:02',
-    cntry: 'c039'
+    ctry: 'c039'
   },
   'antarctica/casey': {
     offset: 8,
@@ -1098,53 +1098,53 @@ module.exports = {
   'asia/aden': {
     offset: 3,
     hem: 'n',
-    cntry: 'c242'
+    ctry: 'c242'
   },
   'asia/almaty': {
     offset: 6,
     hem: 'n',
-    cntry: 'c107'
+    ctry: 'c107'
   },
   'asia/amman': {
     offset: 3,
     hem: 'n',
     dst: '03/29:00->10/25:01',
-    cntry: 'c106'
+    ctry: 'c106'
   },
   'asia/anadyr': {
     offset: 12,
     hem: 'n',
-    cntry: 'c178'
+    ctry: 'c178'
   },
   'asia/aqtau': {
     offset: 5,
     hem: 'n',
-    cntry: 'c107'
+    ctry: 'c107'
   },
   'asia/aqtobe': {
     offset: 5,
     hem: 'n',
-    cntry: 'c107'
+    ctry: 'c107'
   },
   'asia/ashgabat': {
     offset: 5,
     hem: 'n',
-    cntry: 'c223'
+    ctry: 'c223'
   },
   'asia/ashkhabad': {
     offset: 5,
     hem: 'n',
-    cntry: 'c223'
+    ctry: 'c223'
   },
   'asia/atyrau': {
     offset: 5,
     hem: 'n',
-    cntry: 'c107'
+    ctry: 'c107'
   },
   'asia/baghdad': {
     offset: 3,
     hem: 'n',
-    cntry: 'c099'
+    ctry: 'c099'
   },
   'asia/bahrain': {
     offset: 3,
@@ -1153,28 +1153,28 @@ module.exports = {
   'asia/baku': {
     offset: 5,
     hem: 'n',
-    cntry: 'c017'
+    ctry: 'c017'
   },
   'asia/bangkok': {
     offset: 7,
     hem: 'n',
-    cntry: 'c214'
+    ctry: 'c214'
   },
   'asia/barnaul': {
     offset: 7,
     hem: 'n',
-    cntry: 'c178'
+    ctry: 'c178'
   },
   'asia/beirut': {
     offset: 3,
     hem: 'n',
     dst: '03/31:00->10/26:24',
-    cntry: 'c114'
+    ctry: 'c114'
   },
   'asia/bishkek': {
     offset: 6,
     hem: 'n',
-    cntry: 'c111'
+    ctry: 'c111'
   },
   'asia/brunei': {
     offset: 8,
@@ -1183,85 +1183,85 @@ module.exports = {
   'asia/calcutta': {
     offset: 5.5,
     hem: 'n',
-    cntry: 'c096'
+    ctry: 'c096'
   },
   'asia/chita': {
     offset: 9,
     hem: 'n',
-    cntry: 'c048'
+    ctry: 'c048'
   },
   'asia/choibalsan': {
     offset: 8,
     hem: 'n',
-    cntry: 'c139'
+    ctry: 'c139'
   },
   'asia/chongqing': {
     offset: 8,
     hem: 'n',
-    cntry: 'c045'
+    ctry: 'c045'
   },
   'asia/chungking': {
     offset: 8,
     hem: 'n',
-    cntry: 'c045'
+    ctry: 'c045'
   },
   'asia/colombo': {
     offset: 5.5,
     hem: 'n',
-    cntry: 'c204'
+    ctry: 'c204'
   },
   'asia/dacca': {
     offset: 6,
     hem: 'n',
-    cntry: 'c019'
+    ctry: 'c019'
   },
   'asia/damascus': {
     offset: 3,
     hem: 'n',
     dst: '03/29:00->10/24:24',
-    cntry: 'c210'
+    ctry: 'c210'
   },
   'asia/dhaka': {
     offset: 6,
     hem: 'n',
-    cntry: 'c019'
+    ctry: 'c019'
   },
   'asia/dili': {
     offset: 9,
     hem: 's',
-    cntry: 'c096'
+    ctry: 'c096'
   },
   'asia/dubai': {
     offset: 4,
     hem: 'n',
-    cntry: 'c228'
+    ctry: 'c228'
   },
   'asia/dushanbe': {
     offset: 5,
     hem: 'n',
-    cntry: 'c212'
+    ctry: 'c212'
   },
   'asia/gaza': {
     offset: 3,
     hem: 'n',
     dst: '03/23:01->10/26:01',
-    cntry: 'c164'
+    ctry: 'c164'
   },
   'asia/harbin': {
     offset: 8,
     hem: 'n',
-    cntry: 'c045'
+    ctry: 'c045'
   },
   'asia/hebron': {
     offset: 3,
     hem: 'n',
     dst: '03/23:01->10/26:01',
-    cntry: 'c164'
+    ctry: 'c164'
   },
   'asia/ho_chi_minh': {
     offset: 7,
     hem: 'n',
-    cntry: 'c238'
+    ctry: 'c238'
   },
   'asia/hong_kong': {
     offset: 8,
@@ -1270,88 +1270,88 @@ module.exports = {
   'asia/hovd': {
     offset: 7,
     hem: 'n',
-    cntry: 'c139'
+    ctry: 'c139'
   },
   'asia/irkutsk': {
     offset: 8,
     hem: 'n',
-    cntry: 'c178'
+    ctry: 'c178'
   },
   'asia/istanbul': {
     offset: 3,
     hem: 'n',
-    cntry: 'c222'
+    ctry: 'c222'
   },
   'asia/jakarta': {
     offset: 7,
     hem: 's',
-    cntry: 'c097'
+    ctry: 'c097'
   },
   'asia/jayapura': {
     offset: 9,
     hem: 's',
-    cntry: 'c097'
+    ctry: 'c097'
   },
   'asia/jerusalem': {
     offset: 3,
     hem: 'n',
     dst: '03/29:02->10/27:02',
-    cntry: 'c101'
+    ctry: 'c101'
   },
   'asia/kabul': {
     offset: 4.5,
     hem: 'n',
-    cntry: 'c001'
+    ctry: 'c001'
   },
   'asia/kamchatka': {
     offset: 12,
     hem: 'n',
-    cntry: 'c178'
+    ctry: 'c178'
   },
   'asia/karachi': {
     offset: 5,
     hem: 'n',
-    cntry: 'c162'
+    ctry: 'c162'
   },
   'asia/kashgar': {
     offset: 6,
     hem: 'n',
-    cntry: 'c045'
+    ctry: 'c045'
   },
   'asia/kathmandu': {
     offset: 5.75,
     hem: 'n',
-    cntry: 'c147'
+    ctry: 'c147'
   },
   'asia/katmandu': {
     offset: 5.75,
     hem: 'n',
-    cntry: 'c147'
+    ctry: 'c147'
   },
   'asia/khandyga': {
     offset: 9,
     hem: 'n',
-    cntry: 'c178'
+    ctry: 'c178'
   },
   'asia/kolkata': {
     offset: 5.5,
     hem: 'n',
-    cntry: 'c096'
+    ctry: 'c096'
   },
   'asia/krasnoyarsk': {
     offset: 7,
     hem: 'n',
-    cntry: 'c178'
+    ctry: 'c178'
   },
   'asia/kuala_lumpur': {
     offset: 8,
     hem: 's',
-    cntry: 'c125'
+    ctry: 'c125'
   },
   'asia/kuching': {
     offset: 8,
     hem: 'n',
-    cntry: 'c125'
+    ctry: 'c125'
   },
   'asia/kuwait': {
     offset: 3,
@@ -1368,63 +1368,63 @@ module.exports = {
   'asia/magadan': {
     offset: 11,
     hem: 'n',
-    cntry: 'c178'
+    ctry: 'c178'
   },
   'asia/makassar': {
     offset: 8,
     hem: 's',
-    cntry: 'c097'
+    ctry: 'c097'
   },
   'asia/manila': {
     offset: 8,
     hem: 'n',
-    cntry: 'c169'
+    ctry: 'c169'
   },
   'asia/muscat': {
     offset: 4,
     hem: 'n',
-    cntry: 'c161'
+    ctry: 'c161'
   },
   'asia/nicosia': {
     offset: 3,
     hem: 'n',
     dst: '03/31:03->10/27:04',
-    cntry: 'c055'
+    ctry: 'c055'
   },
   'asia/novokuznetsk': {
     offset: 7,
     hem: 'n',
-    cntry: 'c178'
+    ctry: 'c178'
   },
   'asia/novosibirsk': {
     offset: 7,
     hem: 'n',
-    cntry: 'c178'
+    ctry: 'c178'
   },
   'asia/omsk': {
     offset: 6,
     hem: 'n',
-    cntry: 'c178'
+    ctry: 'c178'
   },
   'asia/oral': {
     offset: 5,
     hem: 'n',
-    cntry: 'c107'
+    ctry: 'c107'
   },
   'asia/phnom_penh': {
     offset: 7,
     hem: 'n',
-    cntry: 'c037'
+    ctry: 'c037'
   },
   'asia/pontianak': {
     offset: 7,
     hem: 'n',
-    cntry: 'c097'
+    ctry: 'c097'
   },
   'asia/pyongyang': {
     offset: 9,
     hem: 'n',
-    cntry: 'c156'
+    ctry: 'c156'
   },
   'asia/qatar': {
     offset: 3,
@@ -1433,42 +1433,42 @@ module.exports = {
   'asia/qyzylorda': {
     offset: 6,
     hem: 'n',
-    cntry: 'c107'
+    ctry: 'c107'
   },
   'asia/rangoon': {
     offset: 6.5,
     hem: 'n',
-    cntry: 'c144'
+    ctry: 'c144'
   },
   'asia/riyadh': {
     offset: 3,
     hem: 'n',
-    cntry: 'c188'
+    ctry: 'c188'
   },
   'asia/saigon': {
     offset: 7,
     hem: 'n',
-    cntry: 'c238'
+    ctry: 'c238'
   },
   'asia/sakhalin': {
     offset: 11,
     hem: 'n',
-    cntry: ''
+    ctry: ''
   },
   'asia/samarkand': {
     offset: 5,
     hem: 'n',
-    cntry: 'c178'
+    ctry: 'c178'
   },
   'asia/seoul': {
     offset: 9,
     hem: 'n',
-    cntry: 'c201'
+    ctry: 'c201'
   },
   'asia/shanghai': {
     offset: 8,
     hem: 'n',
-    cntry: 'c045'
+    ctry: 'c045'
   },
   'asia/singapore': {
     offset: 8,
@@ -1477,111 +1477,111 @@ module.exports = {
   'asia/srednekolymsk': {
     offset: 12,
     hem: 'n',
-    cntry: 'c178'
+    ctry: 'c178'
   },
   'asia/taipei': {
     offset: 8,
     hem: 'n',
-    cntry: 'c211'
+    ctry: 'c211'
   },
   'asia/tashkent': {
     offset: 5,
     hem: 'n',
-    cntry: 'c234'
+    ctry: 'c234'
   },
   'asia/tbilisi': {
     offset: 4,
     hem: 'n',
-    cntry: 'c077'
+    ctry: 'c077'
   },
   'asia/tehran': {
     offset: 4.5,
     hem: 'n',
     dst: '03/22:00->09/21:24',
-    cntry: 'c098'
+    ctry: 'c098'
   },
   'asia/tel_aviv': {
     offset: 3,
     hem: 'n',
     dst: '03/29:02->10/27:02',
-    cntry: 'c101'
+    ctry: 'c101'
   },
   'asia/thimbu': {
     offset: 6,
     hem: 'n',
-    cntry: 'c026'
+    ctry: 'c026'
   },
   'asia/thimphu': {
     offset: 6,
     hem: 'n',
-    cntry: 'c026'
+    ctry: 'c026'
   },
   'asia/tokyo': {
     offset: 9,
     hem: 'n',
-    cntry: 'c105'
+    ctry: 'c105'
   },
   'asia/tomsk': {
     offset: 7,
     hem: 'n',
-    cntry: 'c178'
+    ctry: 'c178'
   },
   'asia/ujung_pandang': {
     offset: 8,
     hem: 'n',
-    cntry: 'c097'
+    ctry: 'c097'
   },
   'asia/ulaanbaatar': {
     offset: 8,
     hem: 'n',
-    cntry: 'c139'
+    ctry: 'c139'
   },
   'asia/ulan_bator': {
     offset: 8,
     hem: 'n',
     dst: '03/25:03->09/29:23',
-    cntry: 'c139'
+    ctry: 'c139'
   },
   'asia/urumqi': {
     offset: 6,
     hem: 'n',
-    cntry: 'c045'
+    ctry: 'c045'
   },
   'asia/ust-nera': {
     offset: 10,
     hem: 'n',
-    cntry: 'c178'
+    ctry: 'c178'
   },
   'asia/vientiane': {
     offset: 7,
     hem: 'n',
-    cntry: 'c112'
+    ctry: 'c112'
   },
   'asia/vladivostok': {
     offset: 10,
     hem: 'n',
-    cntry: 'c178'
+    ctry: 'c178'
   },
   'asia/yakutsk': {
     offset: 10,
     hem: 'n',
-    cntry: 'c178'
+    ctry: 'c178'
   },
   'asia/yekaterinburg': {
     offset: 5,
     hem: 'n',
-    cntry: 'c178'
+    ctry: 'c178'
   },
   'asia/yerevan': {
     offset: 4,
     hem: 'n',
-    cntry: 'c013'
+    ctry: 'c013'
   },
   'atlantic/azores': {
     offset: 0,
     hem: 'n',
     dst: '03/31:00->10/27:01',
-    cntry: 'c172'
+    ctry: 'c172'
   },
   'atlantic/bermuda': {
     offset: -3,
@@ -1592,7 +1592,7 @@ module.exports = {
     offset: 1,
     hem: 'n',
     dst: '03/31:01->10/27:02',
-    cntry: 'c203'
+    ctry: 'c203'
   },
   'atlantic/cape_verde': {
     offset: -1,
@@ -1602,45 +1602,45 @@ module.exports = {
     offset: 1,
     hem: 'n',
     dst: '03/31:01->10/27:02',
-    cntry: 'c069'
+    ctry: 'c069'
   },
   'atlantic/faroe': {
     offset: 1,
     hem: 'n',
     dst: '03/31:01->10/27:02',
-    cntry: 'c069'
+    ctry: 'c069'
   },
   'atlantic/jan_mayen': {
     offset: 2,
     hem: 'n',
     dst: '03/31:02->10/27:03',
-    cntry: 'c160'
+    ctry: 'c160'
   },
   'atlantic/madeira': {
     offset: 1,
     hem: 'n',
     dst: '03/31:01->10/27:02',
-    cntry: 'c172'
+    ctry: 'c172'
   },
   'atlantic/reykjavik': {
     offset: 0,
     hem: 'n',
-    cntry: 'c095'
+    ctry: 'c095'
   },
   'atlantic/south_georgia': {
     offset: -2,
     hem: 'n',
-    cntry: 'c200'
+    ctry: 'c200'
   },
   'atlantic/st_helena': {
     offset: 0,
     hem: 'n',
-    cntry: 'c180'
+    ctry: 'c180'
   },
   'atlantic/stanley': {
     offset: -3,
     hem: 's',
-    cntry: 'c068'
+    ctry: 'c068'
   },
   'australia/act': {
     offset: 10,
@@ -1823,7 +1823,7 @@ module.exports = {
     offset: 2,
     hem: 'n',
     dst: '03/31:02->10/27:03',
-    cntry: 'c148'
+    ctry: 'c148'
   },
   'europe/andorra': {
     offset: 2,
@@ -1833,79 +1833,79 @@ module.exports = {
   'europe/astrakhan': {
     offset: 4,
     hem: 'n',
-    cntry: 'c178'
+    ctry: 'c178'
   },
   'europe/athens': {
     offset: 3,
     hem: 'n',
     dst: '03/31:03->10/27:04',
-    cntry: 'c082'
+    ctry: 'c082'
   },
   'europe/belfast': {
     offset: 1,
     hem: 'n',
     dst: '03/31:01->10/27:02',
-    cntry: 'c157'
+    ctry: 'c157'
   },
   'europe/belgrade': {
     offset: 2,
     hem: 'n',
     dst: '03/31:02->10/27:03',
-    cntry: 'c190'
+    ctry: 'c190'
   },
   'europe/berlin': {
     offset: 2,
     hem: 'n',
     dst: '03/31:02->10/27:03',
-    cntry: 'c078'
+    ctry: 'c078'
   },
   'europe/bratislava': {
     offset: 2,
     hem: 'n',
     dst: '03/31:02->10/27:03',
-    cntry: 'c195'
+    ctry: 'c195'
   },
   'europe/brussels': {
     offset: 2,
     hem: 'n',
     dst: '03/31:02->10/27:03',
-    cntry: 'c022'
+    ctry: 'c022'
   },
   'europe/bucharest': {
     offset: 3,
     hem: 'n',
     dst: '03/31:03->10/27:04',
-    cntry: 'c177'
+    ctry: 'c177'
   },
   'europe/budapest': {
     offset: 2,
     hem: 'n',
     dst: '03/31:02->10/27:03',
-    cntry: 'c094'
+    ctry: 'c094'
   },
   'europe/busingen': {
     offset: 2,
     hem: 'n',
     dst: '03/31:02->10/27:03',
-    cntry: 'c078'
+    ctry: 'c078'
   },
   'europe/chisinau': {
     offset: 3,
     hem: 'n',
     dst: '03/31:02->10/27:03',
-    cntry: 'c137'
+    ctry: 'c137'
   },
   'europe/copenhagen': {
     offset: 2,
     hem: 'n',
     dst: '03/31:02->10/27:03',
-    cntry: 'denmark'
+    ctry: 'denmark'
   },
   'europe/dublin': {
     offset: 1,
     hem: 'n',
     dst: '03/31:01->10/27:02',
-    cntry: 'c100'
+    ctry: 'c100'
   },
   'europe/gibraltar': {
     offset: 2,
@@ -1916,64 +1916,64 @@ module.exports = {
     offset: 1,
     hem: 'n',
     dst: '03/31:01->10/27:02',
-    cntry: 'c229'
+    ctry: 'c229'
   },
   'europe/helsinki': {
     offset: 3,
     hem: 'n',
     dst: '03/31:03->10/27:04',
-    cntry: 'c071'
+    ctry: 'c071'
   },
   'europe/isle_of_man': {
     offset: 1,
     hem: 'n',
     dst: '03/31:01->10/27:02',
-    cntry: 'c229'
+    ctry: 'c229'
   },
   'europe/istanbul': {
     offset: 3,
     hem: 'n',
-    cntry: 'c222'
+    ctry: 'c222'
   },
   'europe/jersey': {
     offset: 1,
     hem: 'n',
     dst: '03/31:01->10/27:02',
-    cntry: 'c229'
+    ctry: 'c229'
   },
   'europe/kaliningrad': {
     offset: 2,
     hem: 'n',
-    cntry: 'c178'
+    ctry: 'c178'
   },
   'europe/kirov': {
     offset: 3,
     hem: 'n',
-    cntry: 'c178'
+    ctry: 'c178'
   },
   'europe/kiev': {
     offset: 3,
     hem: 'n',
     dst: '03/31:03->10/27:04',
-    cntry: 'c227'
+    ctry: 'c227'
   },
   'europe/lisbon': {
     offset: 1,
     hem: 'n',
     dst: '03/31:01->10/27:02',
-    cntry: 'c172'
+    ctry: 'c172'
   },
   'europe/ljubljana': {
     offset: 2,
     hem: 'n',
     dst: '03/31:02->10/27:03',
-    cntry: 'c196'
+    ctry: 'c196'
   },
   'europe/london': {
     offset: 1,
     hem: 'n',
     dst: '03/31:01->10/27:02',
-    cntry: 'c229'
+    ctry: 'c229'
   },
   'europe/luxembourg': {
     offset: 2,
@@ -1984,7 +1984,7 @@ module.exports = {
     offset: 2,
     hem: 'n',
     dst: '03/31:02->10/27:03',
-    cntry: 'c203'
+    ctry: 'c203'
   },
   'europe/malta': {
     offset: 2,
@@ -1995,12 +1995,12 @@ module.exports = {
     offset: 3,
     hem: 'n',
     dst: '03/31:03->10/27:04',
-    cntry: 'c002'
+    ctry: 'c002'
   },
   'europe/minsk': {
     offset: 3,
     hem: 'n',
-    cntry: 'c021'
+    ctry: 'c021'
   },
   'europe/monaco': {
     offset: 2,
@@ -2010,59 +2010,59 @@ module.exports = {
   'europe/moscow': {
     offset: 3,
     hem: 'n',
-    cntry: 'c178'
+    ctry: 'c178'
   },
   'europe/nicosia': {
     offset: 3,
     hem: 'n',
     dst: '03/31:03->10/27:04',
-    cntry: 'c055'
+    ctry: 'c055'
   },
   'europe/oslo': {
     offset: 2,
     hem: 'n',
     dst: '03/31:02->10/27:03',
-    cntry: 'c160'
+    ctry: 'c160'
   },
   'europe/paris': {
     offset: 2,
     hem: 'n',
     dst: '03/31:02->10/27:03',
-    cntry: 'c072'
+    ctry: 'c072'
   },
   'europe/podgorica': {
     offset: 2,
     hem: 'n',
     dst: '03/31:02->10/27:03',
-    cntry: 'c140'
+    ctry: 'c140'
   },
   'europe/prague': {
     offset: 2,
     hem: 'n',
     dst: '03/31:02->10/27:03',
-    cntry: 'c056'
+    ctry: 'c056'
   },
   'europe/riga': {
     offset: 3,
     hem: 'n',
     dst: '03/31:03->10/27:04',
-    cntry: 'c113'
+    ctry: 'c113'
   },
   'europe/rome': {
     offset: 2,
     hem: 'n',
     dst: '03/31:02->10/27:03',
-    cntry: 'c102'
+    ctry: 'c102'
   },
   'europe/samara': {
     offset: 4,
     hem: 'n',
-    cntry: 'c178'
+    ctry: 'c178'
   },
   'europe/saratov': {
     offset: 4,
     hem: 'n',
-    cntry: 'c178'
+    ctry: 'c178'
   },
   'europe/san_marino': {
     offset: 2,
@@ -2073,65 +2073,65 @@ module.exports = {
     offset: 2,
     hem: 'n',
     dst: '03/31:02->10/27:03',
-    cntry: 'c029'
+    ctry: 'c029'
   },
   'europe/simferopol': {
     offset: 3,
     hem: 'n',
-    cntry: 'c178'
+    ctry: 'c178'
   },
   'europe/skopje': {
     offset: 2,
     hem: 'n',
     dst: '03/31:02->10/27:03',
-    cntry: 'c158'
+    ctry: 'c158'
   },
   'europe/sofia': {
     offset: 3,
     hem: 'n',
     dst: '03/31:03->10/27:04',
-    cntry: 'bulgaria'
+    ctry: 'bulgaria'
   },
   'europe/stockholm': {
     offset: 2,
     hem: 'n',
     dst: '03/31:02->10/27:03',
-    cntry: 'c208'
+    ctry: 'c208'
   },
   'europe/tallinn': {
     offset: 3,
     hem: 'n',
     dst: '03/31:03->10/27:04',
-    cntry: 'c066'
+    ctry: 'c066'
   },
   'europe/tirane': {
     offset: 2,
     hem: 'n',
     dst: '03/31:02->10/27:03',
-    cntry: 'c003'
+    ctry: 'c003'
   },
   'europe/tiraspol': {
     offset: 3,
     hem: 'n',
     dst: '03/31:02->10/27:03',
-    cntry: 'c137'
+    ctry: 'c137'
   },
   'europe/ulyanovsk': {
     offset: 4,
     hem: 'n',
-    cntry: 'c178'
+    ctry: 'c178'
   },
   'europe/uzhgorod': {
     offset: 3,
     hem: 'n',
     dst: '03/31:03->10/27:04',
-    cntry: 'c227'
+    ctry: 'c227'
   },
   'europe/vaduz': {
     offset: 2,
     hem: 'n',
     dst: '03/31:02->10/27:03',
-    cntry: 'c118'
+    ctry: 'c118'
   },
   'europe/vatican': {
     offset: 2,
@@ -2142,82 +2142,82 @@ module.exports = {
     offset: 2,
     hem: 'n',
     dst: '03/31:02->10/27:03',
-    cntry: 'c016'
+    ctry: 'c016'
   },
   'europe/vilnius': {
     offset: 3,
     hem: 'n',
     dst: '03/31:03->10/27:04',
-    cntry: 'c119'
+    ctry: 'c119'
   },
   'europe/volgograd': {
     offset: 4,
     hem: 'n',
-    cntry: 'c178'
+    ctry: 'c178'
   },
   'asia/volgograd': {
     offset: 4,
     hem: 'n',
-    cntry: 'c178'
+    ctry: 'c178'
   },
   'europe/warsaw': {
     offset: 2,
     hem: 'n',
     dst: '03/31:02->10/27:03',
-    cntry: 'c171'
+    ctry: 'c171'
   },
   'europe/zagreb': {
     offset: 2,
     hem: 'n',
     dst: '03/31:02->10/27:03',
-    cntry: 'c052'
+    ctry: 'c052'
   },
   'europe/zaporozhye': {
     offset: 3,
     hem: 'n',
     dst: '03/31:03->10/27:04',
-    cntry: 'c227'
+    ctry: 'c227'
   },
   'europe/zurich': {
     offset: 2,
     hem: 'n',
     dst: '03/31:02->10/27:03',
-    cntry: 'c209'
+    ctry: 'c209'
   },
   'indian/antananarivo': {
     offset: 3,
     hem: 's',
-    cntry: 'c123'
+    ctry: 'c123'
   },
   'indian/chagos': {
     offset: 6,
     hem: 'n',
-    cntry: 'c032'
+    ctry: 'c032'
   },
   'indian/christmas': {
     offset: 7,
     hem: 's',
-    cntry: 'c046'
+    ctry: 'c046'
   },
   'indian/cocos': {
     offset: 6.5,
     hem: 'n',
-    cntry: 'c047'
+    ctry: 'c047'
   },
   'indian/comoro': {
     offset: 3,
     hem: 'n',
-    cntry: 'c049'
+    ctry: 'c049'
   },
   'indian/kerguelen': {
     offset: 5,
     hem: 's',
-    cntry: 'c075'
+    ctry: 'c075'
   },
   'indian/mahe': {
     offset: 4,
     hem: 'n',
-    cntry: 'c191'
+    ctry: 'c191'
   },
   'indian/maldives': {
     offset: 5,
@@ -2254,50 +2254,50 @@ module.exports = {
     offset: 13,
     hem: 's',
     dst: '04/07:04->09/29:03',
-    cntry: 'c031'
+    ctry: 'c031'
   },
   'pacific/auckland': {
     offset: 12,
     hem: 's',
     dst: '04/07:03->09/29:02',
-    cntry: 'c150'
+    ctry: 'c150'
   },
   'pacific/bougainville': {
     offset: 11,
     hem: 's',
-    cntry: 'c166'
+    ctry: 'c166'
   },
   'pacific/chatham': {
     offset: 12.75,
     hem: 's',
     dst: '04/07:03->04/07:02',
-    cntry: 'c150'
+    ctry: 'c150'
   },
   'pacific/chuuk': {
     offset: 10,
     hem: 'n',
-    cntry: 'c135'
+    ctry: 'c135'
   },
   'pacific/easter': {
     offset: -6,
     hem: 's',
     dst: '04/06:22->09/07:22',
-    cntry: 'c044'
+    ctry: 'c044'
   },
   'pacific/efate': {
     offset: 11,
     hem: 'n',
-    cntry: 'c235'
+    ctry: 'c235'
   },
   'pacific/enderbury': {
     offset: 13,
     hem: 'n',
-    cntry: 'c109'
+    ctry: 'c109'
   },
   'pacific/fakaofo': {
     offset: 13,
     hem: 'n',
-    cntry: 'c218'
+    ctry: 'c218'
   },
   'pacific/fiji': {
     offset: 12,
@@ -2307,22 +2307,22 @@ module.exports = {
   'pacific/funafuti': {
     offset: 12,
     hem: 'n',
-    cntry: 'c225'
+    ctry: 'c225'
   },
   'pacific/galapagos': {
     offset: -6,
     hem: 'n',
-    cntry: 'c061'
+    ctry: 'c061'
   },
   'pacific/gambier': {
     offset: -9,
     hem: 'n',
-    cntry: 'c074'
+    ctry: 'c074'
   },
   'pacific/guadalcanal': {
     offset: 11,
     hem: 'n',
-    cntry: 'c197'
+    ctry: 'c197'
   },
   'pacific/guam': {
     offset: 10,
@@ -2331,42 +2331,42 @@ module.exports = {
   'pacific/honolulu': {
     offset: -10,
     hem: 'n',
-    cntry: 'c230'
+    ctry: 'c230'
   },
   'pacific/johnston': {
     offset: -10,
     hem: 'n',
-    cntry: 'c230'
+    ctry: 'c230'
   },
   'pacific/kiritimati': {
     offset: 14,
     hem: 'n',
-    cntry: 'c109'
+    ctry: 'c109'
   },
   'pacific/kosrae': {
     offset: 11,
     hem: 'n',
-    cntry: 'c135'
+    ctry: 'c135'
   },
   'pacific/kwajalein': {
     offset: 12,
     hem: 'n',
-    cntry: 'c129'
+    ctry: 'c129'
   },
   'pacific/majuro': {
     offset: 12,
     hem: 'n',
-    cntry: 'c129'
+    ctry: 'c129'
   },
   'pacific/marquesas': {
     offset: -9.5,
     hem: 'n',
-    cntry: 'c074'
+    ctry: 'c074'
   },
   'pacific/midway': {
     offset: -11,
     hem: 'n',
-    cntry: 'c136'
+    ctry: 'c136'
   },
   'pacific/nauru': {
     offset: 12,
@@ -2379,17 +2379,17 @@ module.exports = {
   'pacific/norfolk': {
     offset: 11.5,
     hem: 'n',
-    cntry: 'c155'
+    ctry: 'c155'
   },
   'pacific/noumea': {
     offset: 11,
     hem: 'n',
-    cntry: 'c149'
+    ctry: 'c149'
   },
   'pacific/pago_pago': {
     offset: -11,
     hem: 'n',
-    cntry: 'c005'
+    ctry: 'c005'
   },
   'pacific/palau': {
     offset: 9,
@@ -2398,32 +2398,32 @@ module.exports = {
   'pacific/pitcairn': {
     offset: -8,
     hem: 'n',
-    cntry: 'c170'
+    ctry: 'c170'
   },
   'pacific/pohnpei': {
     offset: 11,
     hem: 'n',
-    cntry: 'c135'
+    ctry: 'c135'
   },
   'pacific/ponape': {
     offset: 11,
     hem: 'n',
-    cntry: 'c135'
+    ctry: 'c135'
   },
   'pacific/port_moresby': {
     offset: 10,
     hem: 'n',
-    cntry: 'c166'
+    ctry: 'c166'
   },
   'pacific/rarotonga': {
     offset: -10,
     hem: 'n',
-    cntry: 'c050'
+    ctry: 'c050'
   },
   'pacific/saipan': {
     offset: 10,
     hem: 'n',
-    cntry: 'c159'
+    ctry: 'c159'
   },
   'pacific/samoa': {
     offset: -11,
@@ -2432,38 +2432,38 @@ module.exports = {
   'pacific/tahiti': {
     offset: -10,
     hem: 'n',
-    cntry: 'c074'
+    ctry: 'c074'
   },
   'pacific/tarawa': {
     offset: 12,
     hem: 'n',
-    cntry: 'c109'
+    ctry: 'c109'
   },
   'pacific/tongatapu': {
     offset: 13,
     hem: 's',
     dst: '01/15:02->11/05:03',
-    cntry: 'c219'
+    ctry: 'c219'
   },
   'pacific/truk': {
     offset: 10,
     hem: 'n',
-    cntry: 'c135'
+    ctry: 'c135'
   },
   'pacific/wake': {
     offset: 12,
     hem: 'n',
-    cntry: 'c240'
+    ctry: 'c240'
   },
   'pacific/wallis': {
     offset: 12,
     hem: 'n',
-    cntry: 'c241'
+    ctry: 'c241'
   },
   'pacific/yap': {
     offset: 10,
     hem: 'n',
-    cntry: 'c135'
+    ctry: 'c135'
   },
   'etc/gmt': {
     offset: 0,
@@ -2484,7 +2484,7 @@ module.exports = {
   'etc/greenwich': {
     offset: 0,
     hem: 'n',
-    cntry: 'c229'
+    ctry: 'c229'
   },
   'etc/utc': {
     offset: 0,
