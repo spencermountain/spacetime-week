@@ -1,26 +1,8 @@
-const countries = {
-  canada: 0,
-  china: 0,
-  russia: 1
-}
+let weekStart = require('./input/weekStart')
+let spacetime = require('spacetime')
 
-//go crazy here!
-const weekStart = function(input) {
-  input = input.toLowerCase().trim()
-
-  // match a country name
-  if (countries.hasOwnProperty(input)) {
-    return countries[input]
+module.exports = weekStart = spacetime.extend({
+  weekStart: () => {
+    return weekStart()
   }
-  //match a country from iana timezone
-  let split = input.split('/')
-  if (split.length === 2) {
-    if (countries.hasOwnProperty(split[0])) {
-      return countries[split[0]]
-    }
-  }
-
-  return null //or a fallback?
-}
-
-module.exports = weekStart
+})

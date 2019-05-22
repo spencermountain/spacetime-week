@@ -31,5 +31,8 @@
     "tap-dancer": "0.2.0",
     "tape": "4.10.1",
     "terser": "3.17.0"
+  },
+  "peerDependencies": {
+    "spacetime": "^5.8.2"
   }
 }
