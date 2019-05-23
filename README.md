@@ -40,7 +40,7 @@ Main function `weekStart` determines when week start in the current time zone or
 - just to make it easy for you write lower cased country name
 - there are some time zones with general names, such as `gmt`, `utc` or `zulu`. These returns `JSON` such as:
 ```js
-{ day: 'sunday', location: 'zulu' }
+{ day: 'monday', location: 'zulu' }
 ```
 - if you write as argument different type as string, `null`, `undefined` or supply no argument at all it returns first day of weeek for current time zone
 - it uses `spacetime` library to determine current time zone only and rest is distinct for searching first day of week
