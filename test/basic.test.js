@@ -47,7 +47,9 @@ test('country name can be in lower case, upper case or camel case', t => {
   // finds first occourance of string 'nada' in JSON
   t.equal(weekStart('CANADA').day,'sunday')
   t.equal(weekStart('Canada').country,'canada')
-  // hence finds first grenada instead of canada
+  // it's located in array under key "monday" for
+  // grenada and after that appears located in 
+  // canada under key "sunday"
   t.equal(weekStart('CaNa').day,'sunday')
   t.equal(weekStart('nAdA').country,'grenada')
   t.notEqual(weekStart('nAdA').country,'canada')
