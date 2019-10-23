@@ -1,6 +1,7 @@
 const firstDay = require('../data/countries').firstDay();
 const loc = require('../data/countries').locations();
 const iana = require('../../zonefile/iana');
+const fs = require('fs');
 
 const spacetime = require('spacetime')
 
@@ -48,7 +49,51 @@ function getCurrent(tz) {
   }
 }
 
-function weekStart(country = '') {
+function setWeekStart(value, newDay) {
+  
+  const a = {
+    country: '', 
+    origin: '',
+    assigned: '',
+    key: '',
+    isDay: false,
+    isCountry: false
+  }
+    
+    if (!value || !newDay) { return { message: 'missing argument' } }
+    
+    // check if values are valid
+    for (let day in firstDay) {
+      if (day === newDay.toLowerCase()) { a.isDay = true }
+      for (let key in firstDay[day]) {
+        if (firstDay[day][key].indexOf(value.toLowerCase()) !== -1) {
+          a.origin = day;
+          a.assigned = newDay;
+          a.country = firstDay[day][key];
+          a.key = key;
+          a.isCountry = true
+        }
+      }
+    }
+
+    if (!a.isDay || !a.isCountry) { 
+      return { message: 'incorrect day or country name' } 
+    }
+
+  // when both entries are valid save new JSON
+  delete firstDay[a.origin][a.key];
+  firstDay[newDay][a.key] = a.country;
+  // const data = JSON.stringify(firstDay);
+  // fs.writeFile('../data/countries.json', data);
+
+  return { 
+    country: a.country, 
+    origin: a.origin, 
+    assigned: a.assigned 
+  };
+}
+
+function getWeekStart(country = '') {
 // checks function argument and sets default value
 let tz
   if (!country || typeof country !== 'string') {
@@ -60,8 +105,11 @@ let tz
   } else if (country) {
       let firstDay = getCountry((country.toLowerCase()).trim())
         if (firstDay) { return firstDay }
-          else { return weekStart() }
+          else { return getWeekStart() }
   }
 }
 
-module.exports = weekStart
+module.exports = { 
+  getWeekStart,
+  setWeekStart
+}
