@@ -1,5 +1,6 @@
+let spacetime = require('spacetime')
 const spacetimeWeek = require('./src')
 
-let input = 'canada'
-let day = spacetimeWeek(input)
-console.log(input + ':  ' + day)
+spacetime = spacetime.extend(spacetimeWeek)
+let d = spacetime.now('Europe/Berlin')
+console.log(d.weekStart('iran'))

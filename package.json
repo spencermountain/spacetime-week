@@ -2,7 +2,7 @@
   "name": "spacetime-week",
   "description": "calculate start-of-week",
   "version": "0.0.1",
-  "main": "builds/spacetime-week.js",
+  "main": "src/index.js",
   "unpkg": "builds/spacetime-week.min.js",
   "licence": "MIT",
   "author": "Martin Spodniak & Spencer Kelly",
