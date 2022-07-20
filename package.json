@@ -30,7 +30,7 @@
     "shelljs": "0.8.3",
     "tap-dancer": "0.2.0",
     "tape": "4.10.1",
-    "terser": "3.17.0"
+    "terser": "4.8.1"
   },
   "peerDependencies": {
     "spacetime": "^5.8.2"
